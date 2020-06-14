@@ -28,7 +28,7 @@
             <li class="red-packed-list text-center">
                 <div class="time gray2-color">Today 10:05</div>
                 <div class="red-packed">
-                    <p class="text-left white-color">Received a balck packet</p>
+                    <p class="text-left white-color">Received a red packet</p>
                     <p class="gray4-color font-size12 mtop6">Red packet amount</p>
                     <p class="yellow2-color font-weight mtop4 mbottom7"><span class="mright6">USD</span><span class="font-size17">+100.02</span></p>
                     <p class="text-left">see details
